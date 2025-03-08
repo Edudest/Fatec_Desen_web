@@ -1,0 +1,46 @@
+body {
+     background-color :darkgreen;
+}
+
+#container {
+    margin: 0 auto;
+    width: 80%;
+}
+
+header, nav {
+    width: 98%;
+    padding-left: 1% ;
+    padding-right: 1% ;
+}
+
+header {
+    background-color:bisque;
+    height: 250px;
+    text-align: center;
+}
+
+nav {
+    background-color:aquamarine;
+    padding-top: 1%;
+}
+
+main {
+    background-color:cadetblue;
+    margin-top: 1%;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: justify;
+}
+
+main p {
+    text-indent: 2%;
+}
+
+footer {
+    background-color:brown;
+    padding: 10px;
+    height: 270px;
+    margin-top: 1%;
+}

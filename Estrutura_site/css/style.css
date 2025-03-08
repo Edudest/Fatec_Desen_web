@@ -1,5 +1,5 @@
 body {
-     background-color :darkgreen;
+     background-color:darkslategray;
 }
 
 #container {
@@ -14,18 +14,18 @@ header, nav {
 }
 
 header {
-    background-color:bisque;
+    background-color:cornflowerblue;
     height: 250px;
     text-align: center;
 }
 
 nav {
-    background-color:aquamarine;
+    background-color:cornsilk;
     padding-top: 1%;
 }
 
 main {
-    background-color:cadetblue;
+    background-color:darkgrey;
     margin-top: 1%;
     padding-left: 4%;
     padding-right: 4%;
@@ -39,8 +39,9 @@ main p {
 }
 
 footer {
-    background-color:brown;
+    background-color:darkslategray;
     padding: 10px;
     height: 270px;
     margin-top: 1%;
+    text-align: center;
 }
